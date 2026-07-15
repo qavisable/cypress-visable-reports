@@ -1,0 +1,1 @@
+[{"values":["linux"],"name":"os_platform"},{"values":["6.18.25-55.108.amzn2023.x86_64"],"name":"os_release"},{"values":["v24.15.0"],"name":"node_version"},{"values":["13.17.0"],"name":"cypress_version"},{"values":["Chrome"],"name":"browser"},{"values":["staging"],"name":"test_env"}]
